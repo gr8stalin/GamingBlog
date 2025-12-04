@@ -4,7 +4,7 @@ layout: post
 excerpt: ""
 ---
 
-![banner](/assets/images/13230_library_hero.jpg)
+![banner](../assets/images/13230_library_hero.jpg)
 
 I’m writing this post mostly for me as a reference if/when I want to do this in the future, but these are the steps I followed to get up and running with a UT2k4 server.
 
