@@ -1,0 +1,19 @@
+---
+title:  "Arc Raiders missed the mark"
+layout: post
+excerpt: ""
+---
+
+Prior to Arc Raiders, one game defined and dominated the “extraction shooter” subgenre: Escape From Tarkov. Brutal, unforgiving, and where all interactions are immediately hostile, one misstep could set a player back weeks. Arc Raiders came around, promising the same gameplay loop but not requiring all of your excess time just to stay combative. The game delivered on that promise, garnering an immediate fanbase and giving the game a “first month high” where there was lots to do and experience.
+
+With all games that go through a “first month high”, it wore off as people settled into the meta and began wrapping up their character setup. [This guy’s revised review of Arc Raiders](https://steamcommunity.com/id/xetnuke/recommended/1808500/) is a long but thorough explanation of what’s managed to happen since the game released just about a month ago; the game has shifted from tense excursions where you and fellow raiders have to survive the Arc drones overhead and any bad apples that decide to rob other raiders to becoming nothing more than a bad third-person pvp shooter with an extraction element stapled onto it.
+
+A friend of mine celebrated the vibe shift from the release-week-ish “wholesome reddit chungus” attitudes people had towards PvP where there was basically none of it to where people were getting more interested in shooting, but now PvP is so common it’s becoming the default approach to people encountering other in the wild. It’s great content for streamers and people solely interested in PvP, but not for those also or even solely into the co-op and PvE elements.
+
+I think Arc Raiders missed the mark by making the PvE aspect of the game very weak. The Arc are dangerous when going out on raids, but once you kill the bigger Arc enemies for the rare resources you need for the various “workbenches” in the game that enable crafting, there’s not much motivation to go after them outside of the airborne drones that harass you. There’s basically nothing mechanically that encourages people to team up for PvE encounters, nothing that encourages players to run defense for strangers against PvP-focused players, even the quest system is extremely rudimentary.
+
+Hell, even now, I have a Hullcracker meant for fighting the bigger Arc enemies and I have no motivation to actually go out there until I can get my friend to play with me so he can help ensure I don’t get fucking robbed trying to fight something like a Rocketeer and some rube baits some Arc drones so he can loot the corpse while I get glassed by drones. It’s boring; as soon as I finish my workbench quests, there’s nothing to do outside of PvP and the “throw away all your progress” mechanic that lets you start from almost scratch on a new character for bonus XP.
+
+I don’t think a streamer explicitly caused this, but the weak PvE mechanics in Arc Raiders support their PvP-focused behavior. When there’s no underlying cooperative system to keep people motivated, there’s no reason to play the game outside of PvP. Once you hit that point, there’s no meaning to the gameplay. Why do anything when there’s nothing to gain from going out in the field? Why put up with the mid PvP that Arc Raiders offers?
+
+I fear that if Embark Studios doesn’t course correct their PvE mechanics fast, there will be zero reason to actually play the game versus… well, anything else. Escape From Tarkov offers a more challenging extraction experience, Battlefield 6 has decent casual PvP that controls well, and even in its current shoddy state Helldivers 2 still has some of the best PvE out there.

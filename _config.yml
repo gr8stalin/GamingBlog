@@ -1,0 +1,36 @@
+title: "Fights and Frag Checks"
+author: "gr8stalin's mustache!"
+description: "Ramblings and musings about video games"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+
+show_excerpts: true             # show article excerpts instead of archive list on the home page
+show_frame: true                # display a grey frame on large screens
+show_sidebar: true             # show a sidebar instead of the usual header
+show_minimal: false             # remove all clutter
+
+#show_frame: "/assets/images/background.svg"
+
+# Menu                          # for available icons see https://fontawesome.com/v5/icons/
+
+navigation:                     # accepts {file, title, url, icon, sidebaricon}
+  - {file: "archive.html", sidebaricon: folder-open}
+  - {file: "about.md", sidebaricon: address-card}
+
+external:                       # accepts {file, title, url, icon, sidebaricon}
+  - {title: Twitch, icon: twitch, url: "https://www.twitch.tv/gr8stalin"}
+  - {title: Github, icon: github, url: "https://github.com/gr8stalin/"}
+  - {title: Twitter, icon: twitter, url: "https://x.com/mustachestalin"}
+  - {title: YouTube, icon: youtube, url: "https://www.youtube.com/@Gr8Stalin"}
+  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+
+comments:
+#  disqus_shortname: ""         # see https://disqus.com
+#  isso_domain: ""              # see https://isso-comments.de
+
+plugins:
+ - jekyll-feed
