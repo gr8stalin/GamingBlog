@@ -4,7 +4,7 @@ layout: post
 excerpt: ""
 ---
 
-![ect24](../assets/images/20241011_123058.jpg)
+![ect24]({{site.baseurl}}/assets/images/20241011_123058.jpg)
 
 As I’ve been doing this fighting game thing more and more, I’ve found myself going to various offline events. I’ve traveled for work and sometimes leisure, but my leisure travels have never been to this kind of extent.
 
@@ -130,7 +130,7 @@ Someone’s gonna say it to you eventually so I might as well get it out of the 
 
 Geoff recommends the Marriott and I do too. I’ve had nothing but good experiences with Marriott hotels, even when things go wrong. I rented a room at the local Marriott for East Coast Throwdown 2022. While my friends and I were at the venue for the second to last night, the ceiling in the shower caved in:
 
-![ceiling cavein](../assets/images/20220903_223202.jpg)
+![ceiling cavein]({{site.baseurl}}/assets/images/20220903_223202.jpg)
 
 We contacted the front desk, they sent the maintenance guys on duty who verified the situation, and they moved us into a larger room instantly and at no charge.
 
@@ -216,7 +216,7 @@ Hotel rooms are *not* designed for little gaming nerds with triple-digit refresh
 
 Every hotel, even in a chain, seems to have a different ***physical*** setup for the television (no, you’re not actually using the 12hz television unless you want to). Sometimes the television is mounted on the wall, in which case you’ll angle the television up or down to access the HDMI port. This is one of the better configurations since you don’t have to deal with having to move the television itself and the hotel tends to have an extra surface in its place that you can use for setups. The following image was the setup at the Westin D.C., previously the Renaissance D.C.:
 
-![wall mounted tv setup](../assets/images/wall-mounted-tv-setup.jpg)
+![wall mounted tv setup]({{site.baseurl}}/assets/images/wall-mounted-tv-setup.jpg)
 
 Other times the television sits on a media table/dresser of some kind. The setup with the most freedom is one where you can unplug the television and move it somewhere else, like the room’s closet or in a corner of the room, but be careful doing this since if that thing is damaged the hotel’s gonna be looking at you for ca$h and your behavior may impact how they have the television set up in the future, rules they may put in place, etc.
 
@@ -273,7 +273,7 @@ From repeated trials, Street Fighter 6 works great but there are rare instances 
 
 This setup is actually insanely effective if you end up in a situation like my friend KINGMAN and I were where we showed up for Combo Breaker 2025 in the morning and hotel check-in wasn’t until 2pm, then got pushed to 4pm because they were still cleaning up rooms for all the Combo Breaker attendees. We commandeered a couch + table, set up the Steam Deck and monitor with the portable charger, and played City of the Wolves to kill most of the time.
 
-![steam deck setup](../assets/images/20240822_172421.jpg)
+![steam deck setup]({{site.baseurl}}/assets/images/20240822_172421.jpg)
 
 Additionally, I recommend:
 
