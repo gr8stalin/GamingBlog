@@ -22,7 +22,7 @@ Looking on /v/, the board absolutely erupted. The board’s title was changed to
 
 Even in the face of all that, we were the shining stars of /v/ during a time where the entire site was being overrun by Reddit migrants. We were the oldheads keeping the culture alive and carrying the flag (literally). This was our era. It was awesome.
 
-![meme](/assets/images/1325525408656.jpg)
+![meme](assets/images/1325525408656.jpg)
 
 Most of the games with the /v/ and /vg/ guys afterwards were a lot of fun. We were all instantly recognized in pub servers for a short time, and there are dozens and dozens of matches lost to the sands of time where we just ran a train on the enemy team or goofed off in spectacular ways.
 
@@ -64,13 +64,13 @@ I think all these modern shooters are missing that killer combination of skillfu
 
 However, Tribes: Ascend provided an incredibly important experience for many people. Anyone who remembers playing T:A remembers it fondly: the cha-ching of a blue plate special, belting out [VGS], the Shazbowl itself, going fast via skiing, the fact that Hi-Rez introduced a way to change the km/h speedometer to read SANICS based on /v/ and /vg/ memes about going as fast as Sonic the Hedgehog, and (in deadly seriousness) any friends made or legends encountered along the way. Shoutout to the Crossfire tank god POOPFEAST420.
 
-![steamchat](/assets/images/ss-2012-02-12-at-02.23.26.jpg)
+![steamchat](assets/images/ss-2012-02-12-at-02.23.26.jpg)
 
 I’m probably going to get made fun of for this in shadow chatrooms I frequent for how overly sentimental this last paragraph is. Whenever February 4th comes around, please remember the Shazbowl as I do: an incredible slice of what multiplayer FPS games are all about.
 
 [VGTG][VGS]
 
-![teamv](/assets/images/1328478414154.jpg)
+![teamv](assets/images/1328478414154.jpg)
 
 [^1]: The “BR”, Seph, was actually Chilean.
 [^2]: The caveat to “people make the game worth playing” is that lots of factors can still influence whether or not the game is worth playing as Hi-Rez successfully demonstrated once Tribes: Ascend went into Open Beta.
