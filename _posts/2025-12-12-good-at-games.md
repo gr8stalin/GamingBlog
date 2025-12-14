@@ -15,7 +15,9 @@ Despite the basic argumentation in the thread, I think seeking challenge is inte
 - Challenge is inherently mental exercise, and the brain is a muscle; use it or lose it
 - Literally keeping yourself sharp by thinking up and testing strategies, learning things about game mechanics, and practicing mechanical skills
 - Tackling challenges does make you "better" in the vein of learning and overcoming, but it loses its edge when used as a social cudgel instead of a social sieve
+    - https://x.com/FGCKratos/status/1960758784923480550?s=20
 - Challenge as a social sieve means you tend to connect with driven high-caliber people more often; you self-select as a doer, an explorer
+    - There's something about making the jump from being a member of a fandom to a real hobbyist here
 
 # Challenge is different for everyone
 
@@ -39,8 +41,28 @@ Despite the basic argumentation in the thread, I think seeking challenge is inte
     - shaving single-digit seconds from consecutive runs is rote memorization
     - using exploits to shave single-digit seconds from runs is not just rote memorization but avoiding the main gameplay
     - inherently limited by nature in that games require specialists; mechanical skill does not carry
+    - interestingly, there was some bickering about this very viewpoint in the thread
+- When I was playing 6s tf2, people balked at the idea of the game they played for fun being "taken seriously"
+    - https://x.com/Frootcakee/status/1984739889062257118?s=20
+    - https://x.com/0EyedSlugger/status/1985123800875249848?s=20
 
 # Balance in all things
 
 - The OP in the image does have a point; people who seek challenge for status are always going to be chasing status versus development; this will create a cycle of frustration
-- 
+- Consequently, we will always run into someone who seeks challenge for status; for the safety of your own enjoyment, cut them off
+    - The experience of seeking challenge should be shared positively as those who seek it out are a much smaller group
+    - Unfortunately, the warm fuzzies of supporting each other in challenging endeavors are usually short-lived or nonexistent: https://www.theguardian.com/sport/article/2024/jun/27/the-loneliness-of-the-low-ranking-tennis-player
+- We all have a limited amount of energy we can devote to things; chasing challenge in every facet of your life invites extreme burnout and psychic damage
+    - Chasing challenge constantly impacts your ability to understand the positions of others who seek more casual interactions with an activity
+- Some things are extremely challenging but have no reward outside of a dopamine hit; know when it's fine to go "nah this ain't it"
+    - Time is a limited resource for all of us and people don't realize it until a lot of it is gone
+    - Challenge should lead somewhere and enrich your life; getting "the shiny gold medal" on time attack is great if it has personal meaning to you, but do you really want to piss away your life playing Hell Let Loose just to reach Career Level 450?
+    - Example, playing 6s TF2 was not only a challenge with ups and downs but connected me with amazing people and even decided my career path
+    - Example, many high-level fighting game players have been able to pivot to other fighting games AND develop sources of income from teaching others the nuances of fighting games at a "serious" level
+
+# Closing thoughts
+
+- Seeking challenge in general, not just in video games, is important for keeping a sharp mind and helping you cultivate a social circle of motivated fellows. However, do not forget the golden rule of **have fun**. Seek challenge for the right reasons.
+- We all have limited time, so if you truly enjoy something and want to push it to the next level, do it and cultivate it. Maybe good aesthetic farm and house design in Stardew Valley is your challenge and calling.
+- Despite my personal opinion, if speedrunning is that challenging thing for you, go for it.
+- Conversely, if you feel satisfied just breezing through platformers without doing any of the "hard" stuff, that's fine too. Anyone who holds some "shiny gold" time attack medal over you as a social cudgel sucks as a person anyway, fuck 'em.
