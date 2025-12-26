@@ -8,7 +8,7 @@ excerpt: ""
 
 Somebody on /vr/ is absolutely desperate for attention and dug up some post from the /vr/ archives about seeking challenge. You can tell they've been trying to make this thread work for a while because they've got a ctrl-f highlight in the screenshot, a red oval around the inflammatory remark about challenge, and a red dot between the paragraphs so the image was unique (i.e., the thread they made sunk to the last page but didn't get pruned since /vr/ is a naturally slow board).
 
-The main point the true OP (from 2021) is that there's a sizable audience of people who play "difficult" games not for the thrill of the difficulty itself but for the social clout of having done so as a way to separate themselves from the average gamer. Funny irony is that [the OP of the most recent thread](https://warosu.org/vr/thread/12185297) does little more than seek attention for the social clout of having beaten the in-game record for a level of Donkey Kong Country.
+The main point the true OP (from 2021) is that there's a sizable audience of people who play "difficult" games not for the thrill of the difficulty itself but for the social clout of having done so as a way to separate themselves from the average gamer. Funny irony is that [the OP of the most recent thread](https://warosu.org/vr/thread/12185297) does little more than seek attention for the social clout of *someone else* (???) setting an in-game record for a level of Donkey Kong Country.
 
 Despite the basic argumentation in the thread, I think seeking challenge is interesting philosophically, even though philosophically might be too loaded of a word.
 
