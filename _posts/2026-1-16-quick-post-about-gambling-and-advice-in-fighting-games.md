@@ -18,7 +18,7 @@ Telling this player the secret to higher rank is "doing what isn't expected" (ga
 
 ## Another great day in Tentacle Acres
 
-In my experience, the "platitudes-as-advice" tribe is under the impression that everyone else wants every game to play like this, so slowly and "honestly" that it looks like a controller failure occurred on one side.
+In my experience, the "platitudes-as-advice" tribe is under the impression that everyone else wants every game to play like this, so slowly and "honestly" that it looks like a controller failure occurred on one side (you'll never guess what happened here).
 
 <iframe src="https://clips.twitch.tv/embed?clip=FaintMotionlessReindeerFUNgineer" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
@@ -39,6 +39,12 @@ or like this
 
 ## Context for the contextless
 
-From hereon out I expect you to know a bit about fighting game terminology.
+From hereon out I expect you to know a bit about fighting game terminology. Doing the unexpected is about picking options, on offense and defense, that disrupt whatever strategy your opponent has based on the gameplay they've seen from you. When defending, maybe it's doing something like dashing up after blocking the opponent's blockstring because they're looking for something like a poke or jump, or maybe it's simply just mashing a fast button in the middle of the opponent's buttons because they're doing tick throws a lot. When attacking, sometimes it's just about swinging the same medium or heavy button at your opponent's block until they bite, or setting up a situation where you're minus and expect the opponent to retaliate so you go into an immediate invincible reversal or super.
+
+"Doing what isn't expected" is a platitude: it may be true ***with context***, but it doesn't offer any guidance to fix any of the anonymized player's problems. There's nothing in the messages about options, and from what I know about Discord conversations like this, it either turned into more condescending garbage and aggressiveness or the conversation died there. You can tell me all about Romanjelly's "keep gambling" meme or whatever, but you can't use it to hid behind the truth of the matter; the platitude tribe do this contextless advice-giving constantly and then either retreat behind "it was a joke" or "it's real advice too bad you're not open to learning :)".
 
 # On advice giving for fighting games
+
+This post by Romanjelly perfectly captures how bad advice giving in fighting games has been in my experience. I struggled for a long time to play this genre competently, and I had a lot of trouble making my way through the online matchmaking swamps.
+
+Since the anonymized player mentioned getting mashed on while plus, what they probably need is practice and some guidance on keeping their offense tight at their current rank. It's happened to me where I'm too slow in pressing a fast-enough button and it doesn't matter because I was just too slow in pressing.
