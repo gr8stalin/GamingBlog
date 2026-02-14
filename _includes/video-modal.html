@@ -1,0 +1,186 @@
+<!-- Video Modal Include for Posts -->
+<style>
+.video-modal-overlay {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.85);
+  animation: fadeIn 0.25s ease-out;
+}
+
+/* For sidebar layout (min-width: 58em) */
+@media screen and (min-width: 58em) {
+  .video-modal-overlay {
+    left: 18em; /* Match sidebar width */
+  }
+}
+
+/* For non-sidebar layout */
+@media screen and (max-width: 57.99em) {
+  .video-modal-overlay {
+    left: 0;
+  }
+}
+
+.video-modal-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2em;
+  box-sizing: border-box;
+}
+
+.video-modal-content {
+  position: relative;
+  width: 100%;
+  max-width: 900px;
+  background: #000;
+  border-radius: 4px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+  animation: slideIn 0.3s ease-out;
+}
+
+.video-modal-close {
+  position: absolute;
+  top: -45px;
+  right: 0;
+  color: #fff;
+  font-size: 32px;
+  font-weight: bold;
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 5px 10px;
+  transition: opacity 0.2s;
+  opacity: 0.8;
+  line-height: 1;
+}
+
+.video-modal-close:hover,
+.video-modal-close:focus {
+  opacity: 1;
+}
+
+.video-modal-content video {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 4px;
+}
+
+@keyframes fadeIn {
+  from { 
+    opacity: 0; 
+  }
+  to { 
+    opacity: 1; 
+  }
+}
+
+@keyframes slideIn {
+  from { 
+    opacity: 0;
+    transform: scale(0.95) translateY(-20px);
+  }
+  to { 
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+</style>
+
+<div id="videoModal-{{ include.id | default: 'default' }}" class="video-modal-overlay">
+  <div class="video-modal-container">
+    <div class="video-modal-content">
+      <button class="video-modal-close" aria-label="Close video">&times;</button>
+      <video id="modalVideo-{{ include.id | default: 'default' }}" controls preload="metadata">
+        <source id="videoSource-{{ include.id | default: 'default' }}" src="" type="">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+  </div>
+</div>
+
+<script>
+(function() {
+  var modalId = 'videoModal-{{ include.id | default: "default" }}';
+  var videoId = 'modalVideo-{{ include.id | default: "default" }}';
+  var sourceId = 'videoSource-{{ include.id | default: "default" }}';
+  
+  var modal = document.getElementById(modalId);
+  var video = document.getElementById(videoId);
+  var videoSource = document.getElementById(sourceId);
+  var closeBtn = modal.querySelector('.video-modal-close');
+
+  // Function to open modal with video
+  window.openVideoModal = function(videoUrl, targetId) {
+    var targetModalId = targetId ? 'videoModal-' + targetId : modalId;
+    var targetVideoId = targetId ? 'modalVideo-' + targetId : videoId;
+    var targetSourceId = targetId ? 'videoSource-' + targetId : sourceId;
+    
+    var targetModal = document.getElementById(targetModalId);
+    var targetVideo = document.getElementById(targetVideoId);
+    var targetSource = document.getElementById(targetSourceId);
+    
+    if (!targetModal || !targetVideo || !targetSource) return;
+    
+    var extension = videoUrl.split('.').pop().split('?')[0].toLowerCase();
+    var mimeType = extension === 'webm' ? 'video/webm' : 'video/mp4';
+    
+    targetSource.src = videoUrl;
+    targetSource.type = mimeType;
+    targetVideo.load();
+    targetModal.style.display = 'block';
+    
+    // Prevent body scrolling
+    document.body.style.overflow = 'hidden';
+    
+    // Autoplay after load
+    targetVideo.addEventListener('loadeddata', function onLoad() {
+      targetVideo.play().catch(function(err) {
+        console.log('Autoplay prevented:', err);
+      });
+      targetVideo.removeEventListener('loadeddata', onLoad);
+    });
+  };
+
+  // Close modal and stop video
+  function closeModal() {
+    modal.style.display = 'none';
+    video.pause();
+    video.currentTime = 0;
+    document.body.style.overflow = '';
+  }
+
+  // Close button click
+  closeBtn.onclick = function(e) {
+    e.stopPropagation();
+    closeModal();
+  };
+
+  // Click on overlay background to close
+  modal.onclick = function(event) {
+    if (event.target === modal || event.target === modal.querySelector('.video-modal-container')) {
+      closeModal();
+    }
+  };
+
+  // Prevent clicks on video itself from closing modal
+  video.onclick = function(event) {
+    event.stopPropagation();
+  };
+
+  // ESC key to close
+  document.addEventListener('keydown', function(event) {
+    if (event.key === 'Escape' && modal.style.display === 'block') {
+      closeModal();
+    }
+  });
+})();
+</script>
