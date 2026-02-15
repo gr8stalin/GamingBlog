@@ -12,7 +12,7 @@ excerpt: ""
 
 When I first got into fighting games, my og FPS/RTS community dabbled in fighting games on the side and I got a lesson with one of my homies. We went over blocking, plus and minus frames, and so on, but he told me something that hasn't left me to this day: "you practice the fundamentals until you die". 
 
-For Street Fighter 6, I've had a handful of coaching calls with [Shine](https://metafy.gg/@shinenyc) where he's seen <a href="#" onClick="openVideoModal('{{site.baseurl}}/assets/video/theUltimateMatchup.mp4')">some of my worst games</a>. Outside of the SF6-specific stuff I've taken away from the calls, I've realized that every piece of guidance he's given just comes down to "work on this fundamental because it's weak right now":
+For Street Fighter 6, I've had a handful of coaching calls with [Shine](https://metafy.gg/@shinenyc) where he's seen <a href="#" onClick="openVideoModal('{{site.baseurl}}/assets/video/theUltimateMatchup.mp4'); return false;">some of my worst games</a>. Outside of the SF6-specific stuff I've taken away from the calls, I've realized that every piece of guidance he's given just comes down to "work on this fundamental because it's weak right now":
 
 - throw people a lot until they start teching to gain access to strike-throw-shimmy
 - spend your meter to turn stray hits into oki and/or damage
