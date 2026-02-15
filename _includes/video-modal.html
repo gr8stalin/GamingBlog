@@ -1,4 +1,87 @@
 <!-- Video Modal Include for Posts -->
+<style>
+.video-modal-overlay {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.85);
+  animation: fadeIn 0.25s ease-out;
+}
+
+.video-modal-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2em;
+  box-sizing: border-box;
+}
+
+.video-modal-content {
+  position: relative;
+  width: 100%;
+  max-width: 900px;
+  background: #000;
+  border-radius: 4px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+  animation: slideIn 0.3s ease-out;
+}
+
+.video-modal-close {
+  position: absolute;
+  top: -45px;
+  right: 0;
+  color: #fff;
+  font-size: 32px;
+  font-weight: bold;
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 5px 10px;
+  transition: opacity 0.2s;
+  opacity: 0.8;
+  line-height: 1;
+}
+
+.video-modal-close:hover,
+.video-modal-close:focus {
+  opacity: 1;
+}
+
+.video-modal-content video {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 4px;
+}
+
+@keyframes fadeIn {
+  from { 
+    opacity: 0; 
+  }
+  to { 
+    opacity: 1; 
+  }
+}
+
+@keyframes slideIn {
+  from { 
+    opacity: 0;
+    transform: scale(0.95) translateY(-20px);
+  }
+  to { 
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+</style>
+
 <div id="videoModal-{{ include.id | default: 'default' }}" class="video-modal-overlay">
   <div class="video-modal-container">
     <div class="video-modal-content">
